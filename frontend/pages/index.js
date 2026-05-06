@@ -9,7 +9,7 @@ export default function Home() {
 
   useEffect(() => {
 
-    fetch(`${process.env.NEXT_PUBLIC_API_URL}/products`)
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/products`)
       .then((res) => res.json())
       .then((data) => setProducts(data));
 
