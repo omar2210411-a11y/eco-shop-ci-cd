@@ -87,7 +87,7 @@ export default function Home() {
 
         <h2 className="text-4xl font-bold mb-14 text-center">
 
-          Our ثذخ Best Sellers
+          Our Best Sellers
 
         </h2>
 
