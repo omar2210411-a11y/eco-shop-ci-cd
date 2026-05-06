@@ -60,8 +60,7 @@ export default function Home() {
 
           <h1 className="text-6xl font-bold mb-6 max-w-3xl leading-tight">
 
-             Sustainable Choices
-                for a Better Planet
+            اقوي بروجيكت
           </h1>
 
           <p className="text-xl text-green-100 max-w-2xl mb-10">
